@@ -1,0 +1,11 @@
+framework module CascadeiOSSDK {
+  umbrella header "CascadeiOSSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module CascadeiOSSDK.Swift {
+  header "CascadeiOSSDK-Swift.h"
+  requires objc
+}
