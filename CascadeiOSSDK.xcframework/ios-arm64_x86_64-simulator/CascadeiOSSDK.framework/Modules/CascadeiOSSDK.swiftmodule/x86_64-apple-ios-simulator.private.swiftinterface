@@ -1,0 +1,106 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
+// swift-module-flags: -target x86_64-apple-ios15.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CascadeiOSSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+@_exported import CascadeiOSSDK
+import CommonCrypto
+import CryptoKit
+import Foundation
+import LocalAuthentication
+import Security
+import Swift
+import SwiftUI
+import UIKit
+import _Concurrency
+import _StringProcessing
+public enum eSdkReturn {
+  case eSUCCESS
+  case eCANCELED
+  case eFAILURE
+  public static func == (a: CascadeiOSSDK.eSdkReturn, b: CascadeiOSSDK.eSdkReturn) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct CascadeCornerRadii {
+  public init()
+  public var buttonCorner: CascadeiOSSDK.eCascadeCornerRadius
+  public var modalCorner: CascadeiOSSDK.eCascadeCornerRadius
+  public var textFieldCorner: CascadeiOSSDK.eCascadeCornerRadius
+}
+public struct SetPIN : SwiftUI.View {
+  public init(_ cardID: Swift.String)
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s13CascadeiOSSDK6SetPINV4bodyQrvp", 0) __
+}
+@_inheritsConvenienceInitializers @objc public class SetPINFactory : ObjectiveC.NSObject {
+  @objc public static func create(_ cardID: Swift.String) -> UIKit.UIViewController
+  @objc override dynamic public init()
+  @objc deinit
+}
+public struct GetCardImage : SwiftUI.View {
+  public init(_ cardID: Swift.String)
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s13CascadeiOSSDK12GetCardImageV4bodyQrvp", 0) __
+}
+@_inheritsConvenienceInitializers @objc public class GetCardImagePINFactory : ObjectiveC.NSObject {
+  @objc public static func create(_ cardID: Swift.String) -> UIKit.UIViewController
+  @objc override dynamic public init()
+  @objc deinit
+}
+public func initialize(base64EncodedPreSharedKey: Swift.String, apiUrl: Swift.String, ivCallback: @escaping (_ completion: @escaping (Swift.String?, Swift.String?) -> Swift.Void) -> (Swift.Void), useBiometrics: Swift.Bool = false, colors: CascadeiOSSDK.CascadeColors = CascadeColors(), cornerRadii: CascadeiOSSDK.CascadeCornerRadii = CascadeCornerRadii()) -> Swift.Bool
+public struct ActivateCardAndSetPIN : SwiftUI.View {
+  public init(_ cardID: Swift.String)
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s13CascadeiOSSDK21ActivateCardAndSetPINV4bodyQrvp", 0) __
+}
+@_inheritsConvenienceInitializers @objc public class ActivateCardAndSetPINFactory : ObjectiveC.NSObject {
+  @objc public static func create(_ cardID: Swift.String) -> UIKit.UIViewController
+  @objc override dynamic public init()
+  @objc deinit
+}
+@objc extension Foundation.NSNotification {
+  @objc public static var NotificationCloseUI: Swift.String {
+    @objc get
+  }
+}
+public enum eCascadeCornerRadius {
+  case square
+  case minor
+  case major
+  case full
+  public static func == (a: CascadeiOSSDK.eCascadeCornerRadius, b: CascadeiOSSDK.eCascadeCornerRadius) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct CascadeColors {
+  public init()
+  public var primary: SwiftUI.Color
+  public var colorOnPrimary: SwiftUI.Color
+  public var secondary: SwiftUI.Color
+  public var colorOnSecondary: SwiftUI.Color
+  public var background: SwiftUI.Color
+  public var colorOnBackground: SwiftUI.Color
+  public var surface: SwiftUI.Color
+  public var colorOnSurface: SwiftUI.Color
+  public var error: SwiftUI.Color
+  public var onError: SwiftUI.Color
+  public var success: SwiftUI.Color
+  public var hintText: SwiftUI.Color
+  public var inputText: SwiftUI.Color
+  public var inputLabel: SwiftUI.Color
+  public var inputBorder: SwiftUI.Color
+}
+extension CascadeiOSSDK.eSdkReturn : Swift.Equatable {}
+extension CascadeiOSSDK.eSdkReturn : Swift.Hashable {}
+extension CascadeiOSSDK.eCascadeCornerRadius : Swift.Equatable {}
+extension CascadeiOSSDK.eCascadeCornerRadius : Swift.Hashable {}
