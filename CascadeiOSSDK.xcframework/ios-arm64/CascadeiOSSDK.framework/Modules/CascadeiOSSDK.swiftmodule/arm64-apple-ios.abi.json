@@ -4660,224 +4660,224 @@
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 72864,
+      "offset": 81532,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 72896,
+      "offset": 81564,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 72980,
+      "offset": 81648,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73018,
+      "offset": 81686,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 73052,
+      "offset": 81720,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73093,
+      "offset": 81761,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73129,
+      "offset": 81797,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73171,
+      "offset": 81839,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73219,
+      "offset": 81887,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73267,
+      "offset": 81935,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73308,
+      "offset": 81976,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 73351,
+      "offset": 82019,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 73438,
+      "offset": 82106,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 73483,
+      "offset": 82151,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 76331,
+      "offset": 84999,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76426,
+      "offset": 85094,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76461,
+      "offset": 85129,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76497,
+      "offset": 85165,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 76531,
+      "offset": 85199,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 76575,
+      "offset": 85243,
       "length": 17,
       "value": "\"CardImage_NoNav\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 76638,
+      "offset": 85306,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76749,
+      "offset": 85417,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76785,
+      "offset": 85453,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76827,
+      "offset": 85495,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76875,
+      "offset": 85543,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76923,
+      "offset": 85591,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 76964,
+      "offset": 85632,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 77006,
+      "offset": 85674,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 77045,
+      "offset": 85713,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 77088,
+      "offset": 85756,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "StringLiteral",
-      "offset": 77175,
+      "offset": 85843,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/GetCardImage.swift",
       "kind": "BooleanLiteral",
-      "offset": 77220,
+      "offset": 85888,
       "length": 5,
       "value": "false"
     },
