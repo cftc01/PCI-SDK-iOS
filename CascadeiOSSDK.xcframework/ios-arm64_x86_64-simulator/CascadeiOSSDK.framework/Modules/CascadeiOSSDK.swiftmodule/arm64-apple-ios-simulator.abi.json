@@ -4345,49 +4345,49 @@
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/SetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 15292,
+      "offset": 15289,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/SetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 15329,
+      "offset": 15326,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/SetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 17429,
+      "offset": 17426,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/SetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 17464,
+      "offset": 17461,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/SetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 17500,
+      "offset": 17497,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/SetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 17534,
+      "offset": 17531,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/SetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 17578,
+      "offset": 17575,
       "length": 14,
       "value": "\"SetPIN_NoNav\""
     },
@@ -4905,63 +4905,63 @@
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 17323,
+      "offset": 17335,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 17355,
+      "offset": 17367,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19662,
+      "offset": 19674,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 19759,
+      "offset": 19771,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 19794,
+      "offset": 19806,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 19830,
+      "offset": 19842,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19864,
+      "offset": 19876,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19908,
+      "offset": 19920,
       "length": 29,
       "value": "\"ActivateCardAndSetPIN_NoNav\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19983,
+      "offset": 19995,
       "length": 2,
       "value": "\"\""
     },
