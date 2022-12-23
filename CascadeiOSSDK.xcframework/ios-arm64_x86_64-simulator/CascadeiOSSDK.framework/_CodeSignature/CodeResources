@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		avQSBtPYuHjLzMwYsFUmkHMbkSc=
+		w9pKM5Impskq7jqHfWwY09qiaCE=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		avQSBtPYuHjLzMwYsFUmkHMbkSc=
+		w9pKM5Impskq7jqHfWwY09qiaCE=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -110,7 +110,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B3ICHMST/x90AfE5Q7g7TolQOdxVUDpZO8doyR/B1RM=
+			alWVmt265K8to4MHT0Bq8v1AJhIo8wFAGF5uZlAYsa8=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B3ICHMST/x90AfE5Q7g7TolQOdxVUDpZO8doyR/B1RM=
+			alWVmt265K8to4MHT0Bq8v1AJhIo8wFAGF5uZlAYsa8=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
