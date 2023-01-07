@@ -48,7 +48,7 @@ public struct GetCardImage : SwiftUI.View {
   }
   public typealias Body = @_opaqueReturnTypeOf("$s13CascadeiOSSDK12GetCardImageV4bodyQrvp", 0) __
 }
-@_inheritsConvenienceInitializers @objc public class GetCardImagePINFactory : ObjectiveC.NSObject {
+@_inheritsConvenienceInitializers @objc public class GetCardImageFactory : ObjectiveC.NSObject {
   @objc public static func create(_ cardID: Swift.String) -> UIKit.UIViewController
   @objc override dynamic public init()
   @objc deinit

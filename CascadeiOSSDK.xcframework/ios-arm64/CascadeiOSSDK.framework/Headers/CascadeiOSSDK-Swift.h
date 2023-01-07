@@ -262,8 +262,8 @@ SWIFT_CLASS("_TtC13CascadeiOSSDK28ActivateCardAndSetPINFactory")
 @end
 
 
-SWIFT_CLASS("_TtC13CascadeiOSSDK22GetCardImagePINFactory")
-@interface GetCardImagePINFactory : NSObject
+SWIFT_CLASS("_TtC13CascadeiOSSDK19GetCardImageFactory")
+@interface GetCardImageFactory : NSObject
 + (UIViewController * _Nonnull)create:(NSString * _Nonnull)cardID SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
