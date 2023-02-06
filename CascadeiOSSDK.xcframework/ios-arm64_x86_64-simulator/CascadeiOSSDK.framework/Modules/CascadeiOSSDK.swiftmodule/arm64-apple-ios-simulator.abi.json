@@ -4005,154 +4005,154 @@
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 1944,
+      "offset": 1977,
       "length": 50,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 1979,
+      "offset": 2012,
       "length": 1,
       "value": "\"\/api\/sdk\/token\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2029,
+      "offset": 2062,
       "length": 60,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2064,
+      "offset": 2097,
       "length": 1,
       "value": "\"\/api\/sdk\/pciTokenRequest\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2127,
+      "offset": 2160,
       "length": 63,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2162,
+      "offset": 2195,
       "length": 1,
       "value": "\"\/api\/sdk\/pciTokenSubmission\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2216,
+      "offset": 2249,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2251,
+      "offset": 2284,
       "length": 1,
       "value": "\"\/api\/sdk\/pinSet\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2300,
+      "offset": 2333,
       "length": 58,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2335,
+      "offset": 2368,
       "length": 1,
       "value": "\"\/api\/sdk\/getCardStatus\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2391,
+      "offset": 2424,
       "length": 55,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2426,
+      "offset": 2459,
       "length": 1,
       "value": "\"\/api\/sdk\/cardStatus\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2475,
+      "offset": 2508,
       "length": 54,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2510,
+      "offset": 2543,
       "length": 1,
       "value": "\"\/api\/sdk\/cardImage\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2580,
+      "offset": 2613,
       "length": 76,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2615,
+      "offset": 2648,
       "length": 1,
       "value": "\"\/api\/sdk\/physicalCardActivationAndPinSet\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2706,
+      "offset": 2739,
       "length": 75,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2741,
+      "offset": 2774,
       "length": 1,
       "value": "\"\/api\/sdk\/virtualCardActivationAndPinSet\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2832,
+      "offset": 2865,
       "length": 76,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "StringLiteral",
-      "offset": 2867,
+      "offset": 2900,
       "length": 1,
       "value": "\"\/api\/sdk\/wearableCardActivationAndPinSet\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2946,
+      "offset": 2979,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/CascadeiOSSDK.swift",
       "kind": "IntegerLiteral",
-      "offset": 2976,
+      "offset": 3009,
       "length": 1,
       "value": "0"
     },
@@ -4418,56 +4418,56 @@
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "StringLiteral",
-      "offset": 18407,
+      "offset": 18144,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18437,
+      "offset": 18174,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18544,
+      "offset": 18281,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "StringLiteral",
-      "offset": 18586,
+      "offset": 18323,
       "length": 20,
       "value": "\"errors.generic.api\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18643,
+      "offset": 18380,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18686,
+      "offset": 18423,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "StringLiteral",
-      "offset": 18725,
+      "offset": 18462,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ConfirmCardPINView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18764,
+      "offset": 18501,
       "length": 5,
       "value": "false"
     },
@@ -4936,63 +4936,63 @@
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 16651,
+      "offset": 16676,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 16683,
+      "offset": 16708,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19082,
+      "offset": 19107,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 19179,
+      "offset": 19204,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 19214,
+      "offset": 19239,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "BooleanLiteral",
-      "offset": 19250,
+      "offset": 19275,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19284,
+      "offset": 19309,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19328,
+      "offset": 19353,
       "length": 29,
       "value": "\"ActivateCardAndSetPIN_NoNav\""
     },
     {
       "filePath": "\/Users\/mattkuhn\/Documents\/GitHub\/iOS-SDK\/CascadeiOSSDK\/CascadeiOSSDK\/ActivateCardAndSetPIN.swift",
       "kind": "StringLiteral",
-      "offset": 19403,
+      "offset": 19428,
       "length": 2,
       "value": "\"\""
     },
