@@ -2,10 +2,45 @@
 
 To use this package: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Add it to your XCode project
+2. Initialize as shown in code sample below
 
 ```
-CODE SAMPLE
+import CascadeiOSSDK
+.
+.
+.
+var colors = CascadeColors()
+//colors.primary = Color.blue
+  
+var cornerRadii = CascadeCornerRadii()
+//cornerRadii.buttonCorner =  eCascadeCornerRadius.square
+//cornerRadii.modalCorner = eCascadeCornerRadius.major
+//cornerRadii.textFieldCorner = eCascadeCornerRadius.minor
+        
+var retVal = CascadeiOSSDK.initialize(
+            base64EncodedPreSharedKey: base64EncodedPreSharedKey,
+            apiUrl: apiBaseUrl,
+            ivCallback: getIv,
+            useBiometrics: false,
+            colors: colors,
+            cornerRadii: cornerRadii)
+
+.
+.
+.
+
+// ---------
+
+// To retrieve the version of the SDK:
+ 
+var sdkVersionStr = ""    
+if let bundle = Bundle(identifier: "com.cascadefintech.iOSSDK.CascadeiOSSDK") {
+    if let build: String = bundle.infoDictionary?["CFBundleShortVersionString"] as? String {
+         print("The SDK version: \(build)")
+         sdkVersionStr = build
+    }
+}
 ```
 
 
