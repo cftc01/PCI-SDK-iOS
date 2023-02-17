@@ -17,6 +17,10 @@ var cornerRadii = CascadeCornerRadii()
 //cornerRadii.buttonCorner =  eCascadeCornerRadius.square
 //cornerRadii.modalCorner = eCascadeCornerRadius.major
 //cornerRadii.textFieldCorner = eCascadeCornerRadius.minor
+
+// optional custom image and name for a wearable:
+let wearableName = "Cool Device"
+let wearableImage = UIImage(named: "343x213wearableImage")
         
 var retVal = CascadeiOSSDK.initialize(
             base64EncodedPreSharedKey: base64EncodedPreSharedKey,
@@ -24,7 +28,9 @@ var retVal = CascadeiOSSDK.initialize(
             ivCallback: getIv,
             useBiometrics: false,
             colors: colors,
-            cornerRadii: cornerRadii)
+            cornerRadii: cornerRadii,
+            wearableName: wearableName,
+            wearableImage: wearableImage)
 
 .
 .
@@ -45,6 +51,9 @@ if let bundle = Bundle(identifier: "com.cascadefintech.iOSSDK.CascadeiOSSDK") {
 
 
 # Releases
+
+## 1.0.3
+  * Allow user to pass in wearable card and name and show new wearable screen when card is a wearable
 
 ## 1.0.2
   * Allow wearable cards to be displayed in the same way virtual cards are displayed.

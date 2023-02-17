@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		jqzyJg7Ahix8mUN3HAilu5S4is0=
+		n0xfYjpnfoqoM1NeR8TnDu3uIQQ=
 		</data>
 		<key>Headers/CascadeiOSSDK-Swift.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Yqvgveil3C8TgeZ5Ye9tLmqYms0=
+		bfUs3Ybcnzm5QtrF1idjkAg6A2A=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		UcBkH5WCZNldttfPj54rMUaq5Ug=
+		3/zYpLKem4uGB4tVAmnWySBOLYE=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		cJgHbTXdup+u4wdVYgLoFSvEJn8=
+		m6G/Wv4vmuFIjOPQAUylXuwUnkA=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		cJgHbTXdup+u4wdVYgLoFSvEJn8=
+		m6G/Wv4vmuFIjOPQAUylXuwUnkA=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		PUmys39vp+8/AXBfvDlfrEsAnA0=
+		xiHLzTYzSHmySUjfdIYS2dP04D0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -48,7 +48,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gNOS+jrk41KETr3zqYw7B1hl49Q=
+			c7fz6XnllLkYv1vW/cZkSPz1ggM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A9G6otswcvgESXykHQSS8JRYHe4=
+			z7PetUkRFmgyRt9iacUrinQ4fTg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -69,7 +69,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nU70Q4uWaW+2kpWnGyQcmSRgk89nU5TsaBwicvN+1HQ=
+			9TeiRqpr6WRkwHEvpJnM6meMjFagEi2+1puelMoRwxE=
 			</data>
 		</dict>
 		<key>Headers/CascadeiOSSDK-Swift.h</key>
@@ -90,14 +90,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BvfGJrUTBcWrkIhMoEHOutdezfucKnVZOmt4IvkngUU=
+			aQj92OhRQdc1rVrMZt0fh4ThxQEJ1TvukPlpZqwPYQs=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			btNgTxlkRbUfC3H3fTxUBcVhYMClz76YO4l9rdG5ETQ=
+			Fa2d5ZZCWrf9XDri9NHP22djsHzKnTgFsIcin3gsw90=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			btNgTxlkRbUfC3H3fTxUBcVhYMClz76YO4l9rdG5ETQ=
+			Fa2d5ZZCWrf9XDri9NHP22djsHzKnTgFsIcin3gsw90=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uYLDBuxwC8vob3nrEu1E0mUNIw0hR1xJ+sYVG8d81D8=
+			++OcE22EiVELd+JjT6//n2Zxoa6W3pDRwDL5Pcxoaio=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -132,7 +132,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ik9+JV+ZApzf7ZrhVtG2T3kZaB3aM9uEf6vMuRa0dsE=
+			2Zt84Pr/qgH1y2zocouNFAKDRmqLoO9810L4tTsswtw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -141,7 +141,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XpWMi5QJBr+c9bUyGFgUkwe5OvUMdmJFeheMLwTPPQA=
+			bkM0awDfXu0cp3y1Ju3J9un1i95OmQf5ctYXCkN3zUs=
 			</data>
 			<key>optional</key>
 			<true/>
