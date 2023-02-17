@@ -52,6 +52,9 @@ if let bundle = Bundle(identifier: "com.cascadefintech.iOSSDK.CascadeiOSSDK") {
 
 # Releases
 
+## 1.0.3
+  * Allow user to pass in wearable card and name and show new wearable screen when card is a wearable
+
 ## 1.0.2
   * Allow wearable cards to be displayed in the same way virtual cards are displayed.
   * Fixed issue with resending verification code
