@@ -38,6 +38,10 @@ var retVal = CascadeiOSSDK.initialize(
 
 // ---------
 
+NOTE: if you want to use a different user after already using the SDK with a user, call the Initialize method again.
+
+// ---------
+
 // To retrieve the version of the SDK:
  
 var sdkVersionStr = ""    
@@ -51,6 +55,8 @@ if let bundle = Bundle(identifier: "com.cascadefintech.iOSSDK.CascadeiOSSDK") {
 
 
 # Releases
+## 1.0.4
+  * Reset in Initialize to allow different user + ability to copy virtual and wearable card details
 
 ## 1.0.3
   * Allow user to pass in wearable card and name and show new wearable screen when card is a wearable
