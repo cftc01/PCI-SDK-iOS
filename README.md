@@ -39,7 +39,7 @@ var retVal = CascadeiOSSDK.initialize(
 // ---------
 
 NOTE: if you want to use a different user after already using the SDK with a user, 
-call the Initialize method again.
+call the 'initialize(...)' method again.
 
 // ---------
 
