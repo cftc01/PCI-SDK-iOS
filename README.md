@@ -60,7 +60,7 @@ You can specify in Xcode which version of a Swift Package you would like to use.
 Case 1: You haven't added the package to XCode yet
 1. In XCode: File > Add Packages...
 2. On popup use search bar (top left) and enter: https://github.com/cftc01/PCI-SDK-iOS
-3. PCI-SDK-IOS will appear and choose Dependency Rule 'Exact' and enter the version you want (i.e. 1.0.3)
+3. PCI-SDK-IOS will appear and choose Dependency Rule 'Exact' and enter the version you want (i.e. 1.0.4)
 4. Press Add Package
 
 Case 2: You've already added the package to XCode
@@ -68,7 +68,7 @@ Case 2: You've already added the package to XCode
 2. Choose PROJECT (not TARGET) from the left nav 
 3. Choose Package Dependencies from the top nav
 4. Select the package of interest (CascadeiOSSDKPackage) and double-click
-5. A popup will appear - choose Version 'Exact' and specify the version (i.e. 1.0.3)
+5. A popup will appear - choose Version 'Exact' and specify the version (i.e. 1.0.4)
 6. Press DONE and the package will be updated to the exact version you specified
 
 ```
