@@ -9,12 +9,9 @@ Pod::Spec.new do |spec|
   spec.author             = { "Cascade Financial Technology" => "qa@cascadefintech.com" }
   spec.source             = { :git => 'https://github.com/cftc01/PCI-SDK-iOS.git', :tag => "#{spec.version}" }
   spec.swift_version      = "5.3"
-  spec.source_files       = "Sources", "Sources/**/*.*"
- # spec.exclude_files      = "Classes/Exclude"
+  spec.platform           = :ios
+  spec.ios.vendored_frameworks = "CascadeiOSSDK.xcframework"
 
   # Supported deployment targets
-  spec.ios.deployment_target  = "15.1"
-
-  # Published binaries
-  vendored_frameworks = "CascadeiOSSDK.xcframework"
+  spec.ios.deployment_target  = "15.4"
 end
