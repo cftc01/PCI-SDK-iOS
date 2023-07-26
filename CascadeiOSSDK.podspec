@@ -1,13 +1,13 @@
 Pod::Spec.new do |spec|
   spec.name               = "CascadeiOSSDK"
-  spec.version            = "1.0.4.0"
+  spec.version            = "1.0.4.1"
   spec.summary            = "CascadeiOSSDK"
   spec.description        = "PCI SDK xcFramework"
   spec.homepage           = "https://github.com/cftc01/PCI-SDK-iOS"
   spec.documentation_url  = "https://github.com/cftc01/PCI-SDK-iOS"
   spec.license            = { :type => "MIT" }
   spec.author             = { "Cascade Financial Technology" => "qa@cascadefintech.com" }
-  spec.source             = { :http => 'https://github.com/cftc01/PCI-SDK-iOS/raw/master/CascadeiOSSDK-v1.0.4.zip' }
+  spec.source             = { :git => 'https://github.com/cftc01/PCI-SDK-iOS.git', :tag => "1.0.4" }
   spec.swift_version      = "5.3"
   spec.platform           = :ios
   spec.ios.vendored_frameworks = "CascadeiOSSDK.xcframework"
