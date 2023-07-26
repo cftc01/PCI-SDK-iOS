@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name               = "CascadeiOSSDK"
-  spec.version            = "1.0.4.2"
+  spec.version            = "1.0.4.0"
   spec.summary            = "CascadeiOSSDK"
   spec.description        = "PCI SDK xcFramework"
   spec.homepage           = "https://github.com/cftc01/PCI-SDK-iOS"
