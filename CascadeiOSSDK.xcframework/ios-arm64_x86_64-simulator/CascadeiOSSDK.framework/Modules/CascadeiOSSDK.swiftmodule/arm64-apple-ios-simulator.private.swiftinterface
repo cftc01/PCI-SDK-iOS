@@ -23,6 +23,7 @@ public enum eSdkReturn {
     get
   }
 }
+public func sdkLog(_ obj: Any)
 public struct CascadeCornerRadii {
   public init()
   public var buttonCorner: CascadeiOSSDK.eCascadeCornerRadius

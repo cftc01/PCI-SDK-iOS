@@ -18,15 +18,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+P6PPwHoPkvuwt2+0MKexnIaKv4=
+		R7zFQkNqivzJTenLoau0UFvK3hU=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		3/zYpLKem4uGB4tVAmnWySBOLYE=
+		1oS3x3CK7dZJXQHgYywx2yfCNuw=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ov7B2NQRBxTDSS9CqTkiVH/5JJc=
+		5BopO/89IHeZA1zElI8/gCBokDo=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ov7B2NQRBxTDSS9CqTkiVH/5JJc=
+		5BopO/89IHeZA1zElI8/gCBokDo=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cNQnsod9PHtbmPtHyVp6HGWHmkM=
+		HTkcvA0hArA9ST4tq/LrZpmKP/k=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		3/zYpLKem4uGB4tVAmnWySBOLYE=
+		1oS3x3CK7dZJXQHgYywx2yfCNuw=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NkxpoZ/+6em6/J+hog2HTac63hM=
+		f8AowpJCcGhaxdXajDDG/v36634=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NkxpoZ/+6em6/J+hog2HTac63hM=
+		f8AowpJCcGhaxdXajDDG/v36634=
 		</data>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kLBCdkGEaJeldlW4cviTuc+8gQU=
+		nBEux/fIpEyOiokB68lrInq26J4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,14 +110,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aQj92OhRQdc1rVrMZt0fh4ThxQEJ1TvukPlpZqwPYQs=
+			UnOtupzOr2uOZREvGzwBFJM0vSXXMvNYD8Si0YTG7s8=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EufazTIdEDESnHtz59hwG8i6GPwZyWuDbpLlcGhOUyA=
+			BgGjDVPRgcSZu/8LdaXtDMSbQgFUP+BMu4oyMMy3SFQ=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -131,28 +131,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EufazTIdEDESnHtz59hwG8i6GPwZyWuDbpLlcGhOUyA=
+			BgGjDVPRgcSZu/8LdaXtDMSbQgFUP+BMu4oyMMy3SFQ=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wRB3rY6LCmakQKDXti1moUHPsrs+A2ncwBymHJirXsw=
+			yEyLjir3rrsXaUplTMKEiRJpEBEKsxPC0zpGnGMqWzQ=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aQj92OhRQdc1rVrMZt0fh4ThxQEJ1TvukPlpZqwPYQs=
+			UnOtupzOr2uOZREvGzwBFJM0vSXXMvNYD8Si0YTG7s8=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yg1mS/zuqWTjEXLm2HBn3QLWCefNmmJuDKtlLosgwgY=
+			/TMp/4iPF3nKMuyuEpKu8kEoevLzc5J9UplAxkJZWGY=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -166,14 +166,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yg1mS/zuqWTjEXLm2HBn3QLWCefNmmJuDKtlLosgwgY=
+			/TMp/4iPF3nKMuyuEpKu8kEoevLzc5J9UplAxkJZWGY=
 			</data>
 		</dict>
 		<key>Modules/CascadeiOSSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Cfv4nlgq2q5fSnrGWNm5UaiNQND9ixR6Nal89R3xRk=
+			D6awp+darp9GJoxCH+jT/FD7aWx+EEnDWi8hNu9VORk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
