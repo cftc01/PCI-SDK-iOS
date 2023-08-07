@@ -75,6 +75,10 @@ Case 2: You've already added the package to XCode
 
 
 # Releases
+
+## 1.0.5
+  * Fix for foreground color on some Text views
+
 ## 1.0.4
   * Reset in Initialize to allow different user + ability to copy virtual and wearable card details
 
